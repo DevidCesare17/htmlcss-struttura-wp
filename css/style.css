@@ -4,6 +4,11 @@
   padding: 0;
 }
 
+.container{
+  width: 1700px;
+  margin: auto;
+}
+
 header{
   height: 200px;
   background-color: #FEFE3A;
