@@ -36,7 +36,6 @@ main{
 }
 
 .column-right{
-  position: relative;
   float: right;
   width: 25%;
   height: 90%;
@@ -44,7 +43,6 @@ main{
 }
 
 .widget{
-  position: relative;
   background-color: #CC87DA;
   width: 100%;
   height: 50%;
