@@ -48,7 +48,7 @@ main{
   background-color: #CC87DA;
   width: 100%;
   height: 50%;
-  margin: 5%;
+  margin-bottom: 5%;
 }
 
 main::after{
